@@ -1,0 +1,414 @@
+
+<h3 style="color:#555555;">2015-07-10 06:06:41 - Start</h3><hr><hr/>[ 2015-07-10 06:06:42  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - Pipe#2</a></b><br/ >[ 2015-07-10 06:06:42 ][ Engine:  ][ Found: 0 articles ]<br/ >
+<br/>2015-07-10 06:06:42 Stop: [2:0/0]
+
+<hr/>[ 2015-07-10 06:06:42  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - Unternehmer.de</a></b><br/ >[ 2015-07-10 06:06:42 ][ Engine: rssreader ][ Found: 10 articles ]<br/ >
+<ol><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/gruendung-selbststaendigkeit/177108-feedback-startup-interview-starred-com"><div>Kunden-Feedback: schnell & einfach! Startup-I ...</a><br />[ 2015-07-10 06:06:43 ][ Ignore ][ Duplicate - id:94 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/gruendung-selbststaendigkeit/177243-veranstaltungstipp-the-venture">Veranstaltungstipp: The Venture</a><br />[ 2015-07-10 06:06:43 ][ Ignore ][ Duplicate - id:95 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/it-technik/177076-crm-systeme">CRM-Systeme für KMU: Diese 5 Fragen sollten Sie s ...</a><br />[ 2015-07-10 06:06:44 ][ Ignore ][ Duplicate - id:97 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/recht-gesetze/177291-bildungsurlaub-deutschland-regelungen-bundeslaender">Bildungsurlaub in Deutschland: Die Regelungen der  ...</a><br />[ 2015-07-10 06:06:44 ][ Ignore ][ Duplicate - id:99 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/it-technik/176996-suchmaschinenraking-ohne-backlinks">SEO auf Russisch: Backlinks sind kein Rankingfakto ...</a><br />[ 2015-07-10 06:06:45 ][ Ignore ][ Duplicate - id:101 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/gruendung-selbststaendigkeit/177246-prosiebensat-1-accelerator">Der ProSiebenSat.1 Accelerator: Schnell noch bewer ...</a><br />[ 2015-07-10 06:06:45 ][ Ignore ][ Duplicate - id:103 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/marketing-vertrieb/176992-startups-erfolgsfaktor-vertrieb">Startups aufgepasst: Scheitert nicht am Vertrieb!</a><br />[ 2015-07-10 06:06:46 ][ Ignore ][ Duplicate - id:105 ]<hr /></li>[ 2015-07-10 06:06:46 - Stop ][ Pipe id: 6 - (0->7)/10 ]
+<hr/>[ 2015-07-10 06:06:46  - Start ][ ip: 127.0.0.1 ]<li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/management-people-skills/177200-mitarbeiter-foerdern-studium-neben-dem-beruf-so-gehts">Mitarbeiter fördern: Studium neben dem Beruf –  ...</a><br />[ 2015-07-10 06:06:47 ][ Saved ][ Saved - id:174 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/management-people-skills/177068-einblick-redaktion-tools-projektplanung">Einblick in die Redaktion: Mit diesen Tools arbeit ...</a><br />[ 2015-07-10 06:06:48 ][ Saved ][ Saved - id:176 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://www.unternehmer.de/finanzen-steuern/176655-selbstanzeige-bei-steuerhinterziehung">Selbstanzeige bei Steuerhinterziehung: Das müssen ...</a><br />[ 2015-07-10 06:06:49 ][ Saved ][ Saved - id:178 ]<hr /></li></ol>[ 2015-07-10 06:06:49 - Stop ][ Pipe id: 6 - (7->10)/10 ]
+
+<hr/>[ 2015-07-10 06:06:49  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - Get news from techcrunch</a></b><br/ >[ 2015-07-10 06:06:49 ][ Engine: rssreader ][ Found: 20 articles ]<br/ >
+<ol><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/OEx-aGOSjLA/">Likes Aren’t Enough. Now Facebook Pages Need You ...</a><br />[ 2015-07-10 06:06:53 ][ Saved ][ Saved - id:180 ]<hr /></li>[ 2015-07-10 06:06:53 - Stop ][ Pipe id: 7 - (0->1)/20 ]
+<hr/>[ 2015-07-10 06:06:54  - Start ][ ip: 127.0.0.1 ]<li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/ca-fxfn5YSE/">GoFundMe Learns The Taylor Swift Principle</a><br />[ 2015-07-10 06:06:56 ][ Saved ][ Saved - id:182 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/CDcjPh2TZrQ/">An Interview With Alex Roetter, Twitter’s Head O ...</a><br />[ 2015-07-10 06:06:59 ][ Saved ][ Saved - id:184 ]<hr /></li>[ 2015-07-10 06:06:59 - Stop ][ Pipe id: 7 - (1->3)/20 ]
+<hr/>[ 2015-07-10 06:07:00  - Start ][ ip: 127.0.0.1 ]<li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/lhPsHDB3zZI/">Legit Debuts A Social Watchlist App For Finding Th ...</a><br />[ 2015-07-10 06:07:04 ][ Saved ][ Saved - id:186 ]<hr /></li>[ 2015-07-10 06:07:04 - Stop ][ Pipe id: 7 - (3->4)/20 ]
+<hr/>[ 2015-07-10 06:07:04  - Start ][ ip: 127.0.0.1 ]<li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/je4dBFHqKO8/">Facebook Empowers Us To Tell News Feed What We Wan ...</a><br />[ 2015-07-10 06:07:05 ][ Ignore ][ Duplicate - id:134 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/7zEwK1I_cY4/">I Can Has New CEO? Cheezburger’s Ben Huh Steps D ...</a><br />[ 2015-07-10 06:07:05 ][ Ignore ][ Duplicate - id:136 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/zRi_cOKl0vE/">Rhinobird Enters The Live Streaming Race With Its  ...</a><br />[ 2015-07-10 06:07:06 ][ Ignore ][ Duplicate - id:138 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/6xA2wythELc/">Twitter Celebrates 1 Year Of Mobile App Promotion  ...</a><br />[ 2015-07-10 06:07:06 ][ Ignore ][ Duplicate - id:140 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/WWk5jGOsj7U/">Pinterest Rolls Out Its First Development Platform ...</a><br />[ 2015-07-10 06:07:06 ][ Ignore ][ Duplicate - id:142 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/qIa1YpWVOAU/">Tinder Rolls Out Verified Profiles For Celebrities ...</a><br />[ 2015-07-10 06:07:07 ][ Ignore ][ Duplicate - id:144 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/zP2sBA8mxXU/">Name Your Price On Shopping App Compelation</a><br />[ 2015-07-10 06:07:07 ][ Ignore ][ Duplicate - id:146 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/AGjV8IOatXE/">Reddit’s Community: Can’t Win With ‘Em, Can� ...</a><br />[ 2015-07-10 06:07:08 ][ Ignore ][ Duplicate - id:148 ]<hr /></li>[ 2015-07-10 06:07:08 - Stop ][ Pipe id: 7 - (4->12)/20 ]
+<hr/>[ 2015-07-10 06:07:08  - Start ][ ip: 127.0.0.1 ]<li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/aOqkRZMiBcA/">Microsoft’s New Tossup App Lets You Poll Your Fr ...</a><br />[ 2015-07-10 06:07:08 ][ Ignore ][ Duplicate - id:150 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/rp1Ps-BWljQ/">Apple Music Is For People With No Clue What To Str ...</a><br />[ 2015-07-10 06:07:08 ][ Ignore ][ Duplicate - id:152 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/IoaQJ1blb6Y/">Pinterest Has Started Rolling Out Buyable Pins On  ...</a><br />[ 2015-07-10 06:07:09 ][ Ignore ][ Duplicate - id:154 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/I_Yi7Y33Scw/">Shazam Takes On Apple Music Connect With New Socia ...</a><br />[ 2015-07-10 06:07:10 ][ Ignore ][ Duplicate - id:156 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/wKqgQWRFulI/">Facebook Fights YouTube With Big Data On What You  ...</a><br />[ 2015-07-10 06:07:10 ][ Ignore ][ Duplicate - id:158 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/AzM84vi5cTY/">As Competition With YouTube Increases, Facebook Ov ...</a><br />[ 2015-07-10 06:07:11 ][ Ignore ][ Duplicate - id:160 ]<hr /></li><li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/UvGlR2ym4iU/">Craigslist, 3taps Settle Their Scraping/Antitrust  ...</a><br />[ 2015-07-10 06:07:12 ][ Ignore ][ Duplicate - id:162 ]<hr /></li>[ 2015-07-10 06:07:12 - Stop ][ Pipe id: 7 - (12->19)/20 ]
+<hr/>[ 2015-07-10 06:07:12  - Start ][ ip: 127.0.0.1 ]<li><b>Source: </b><a target="_blank" href="http://feedproxy.google.com/~r/techcrunch/social/~3/BwqX58-nKZw/">Facebook’s Snapchatty New Photo Uploader Lets Yo ...</a><br />[ 2015-07-10 06:07:13 ][ Ignore ][ Duplicate - id:164 ]<hr /></li></ol>[ 2015-07-10 06:07:13 - Stop ][ Pipe id: 7 - (19->20)/20 ]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:07:13 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:07:13 - Start</h3><hr><hr/>[ 2015-07-10 06:07:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:07:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:07:13 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:07:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:07:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:07:13 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:07:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:07:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:07:13 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:07:13 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:08:13 - Start</h3><hr><hr/>[ 2015-07-10 06:08:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:08:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:08:13 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:08:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:08:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:08:13 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:08:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:08:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:08:13 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:08:13 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:09:06 - Start</h3><hr><hr/>[ 2015-07-10 06:09:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:09:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:09:06 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:09:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:09:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:09:06 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:09:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:09:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:09:06 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:09:06 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:10:06 - Start</h3><hr><hr/>[ 2015-07-10 06:10:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:10:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:10:06 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:10:07  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:10:07 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:10:07 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:10:07  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:10:07 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:10:07 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:10:07 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:39:53 - Start</h3><hr><hr/>[ 2015-07-10 06:39:53  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:39:53 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:39:53 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:39:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:39:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:39:54 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:39:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:39:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:39:54 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:39:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:40:07 - Start</h3><hr><hr/>[ 2015-07-10 06:40:07  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:40:07 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:40:07 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:40:07  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:40:07 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:40:07 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:40:08  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:40:08 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:40:08 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:40:08 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:40:20 - Start</h3><hr><hr/>[ 2015-07-10 06:40:20  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:40:20 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:40:20 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:40:20  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:40:20 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:40:20 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:40:20  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:40:20 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:40:20 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:40:21 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:41:34 - Start</h3><hr><hr/>[ 2015-07-10 06:41:34  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:41:34 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:34 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:41:34  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:41:34 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:34 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:41:35  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:41:35 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:35 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:41:35 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:41:42 - Start</h3><hr><hr/>[ 2015-07-10 06:41:42  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:41:42 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:42 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:41:42  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:41:42 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:42 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:41:42  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:41:42 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:42 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:41:42 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:41:49 - Start</h3><hr><hr/>[ 2015-07-10 06:41:49  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:41:49 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:49 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:41:49  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:41:49 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:49 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:41:50  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:41:50 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:41:50 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:41:50 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:42:01 - Start</h3><hr><hr/>[ 2015-07-10 06:42:01  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:42:01 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:01 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:42:01  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:42:01 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:01 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:42:01  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:42:01 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:01 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:42:01 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:42:06 - Start</h3><hr><hr/>[ 2015-07-10 06:42:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:42:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:06 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:42:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:42:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:06 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:42:06  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:42:06 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:06 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:42:07 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:42:13 - Start</h3><hr><hr/>[ 2015-07-10 06:42:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:42:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:13 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:42:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:42:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:13 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:42:13  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:42:13 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:13 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:42:13 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:42:18 - Start</h3><hr><hr/>[ 2015-07-10 06:42:18  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:42:18 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:18 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:42:18  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:42:18 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:18 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:42:18  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:42:18 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:42:18 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:42:18 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:43:18 - Start</h3><hr><hr/>[ 2015-07-10 06:43:18  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:43:18 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:18 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:43:18  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:43:18 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:18 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:43:18  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:43:18 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:18 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:43:18 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:43:33 - Start</h3><hr><hr/>[ 2015-07-10 06:43:33  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:43:33 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:33 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:43:33  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:43:33 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:33 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:43:34  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:43:34 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:34 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:43:34 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:43:43 - Start</h3><hr><hr/>[ 2015-07-10 06:43:43  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:43:43 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:43 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:43:43  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:43:43 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:43 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:43:43  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:43:43 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:43 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:43:43 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:43:53 - Start</h3><hr><hr/>[ 2015-07-10 06:43:53  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:43:53 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:53 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:43:53  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:43:53 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:53 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:43:53  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:43:53 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:43:53 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:43:54 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:44:54 - Start</h3><hr><hr/>[ 2015-07-10 06:44:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:44:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:44:54 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:44:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:44:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:44:54 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:44:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:44:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:44:54 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:44:54 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:45:54 - Start</h3><hr><hr/>[ 2015-07-10 06:45:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:45:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:45:54 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:45:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:45:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:45:54 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:45:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:45:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:45:54 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:45:54 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:46:54 - Start</h3><hr><hr/>[ 2015-07-10 06:46:54  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:46:54 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:46:54 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:46:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:46:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:46:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:46:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:46:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:46:55 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:46:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:47:55 - Start</h3><hr><hr/>[ 2015-07-10 06:47:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:47:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:47:55 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:47:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:47:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:47:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:47:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:47:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:47:55 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:47:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:48:55 - Start</h3><hr><hr/>[ 2015-07-10 06:48:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:48:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:48:55 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:48:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:48:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:48:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:48:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:48:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:48:55 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:48:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:49:55 - Start</h3><hr><hr/>[ 2015-07-10 06:49:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:49:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:49:55 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:49:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:49:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:49:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:49:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:49:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:49:55 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:49:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:50:55 - Start</h3><hr><hr/>[ 2015-07-10 06:50:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:50:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:50:55 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:50:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:50:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:50:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:50:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:50:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:50:55 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:50:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:51:55 - Start</h3><hr><hr/>[ 2015-07-10 06:51:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:51:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:51:55 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:51:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:51:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:51:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:51:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:51:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:51:55 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:51:55 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:52:55 - Start</h3><hr><hr/>[ 2015-07-10 06:52:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:52:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:52:55 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:52:55  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:52:55 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:52:55 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:52:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:52:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:52:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:52:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:53:56 - Start</h3><hr><hr/>[ 2015-07-10 06:53:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:53:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:53:56 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:53:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:53:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:53:56 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:54:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:54:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:54:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:54:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:55:56 - Start</h3><hr><hr/>[ 2015-07-10 06:55:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:55:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:55:56 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:55:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:55:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:55:56 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:55:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:55:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:55:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:55:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:56:56 - Start</h3><hr><hr/>[ 2015-07-10 06:56:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:56:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:56:56 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:56:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:56:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:56:56 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:56:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:56:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:56:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:56:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:57:56 - Start</h3><hr><hr/>[ 2015-07-10 06:57:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:57:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:57:56 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:57:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:57:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:57:56 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:57:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:57:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:57:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:57:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:58:56 - Start</h3><hr><hr/>[ 2015-07-10 06:58:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:58:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:58:56 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:58:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:58:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:58:56 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:58:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:58:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:58:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:58:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
+
+<h3 style="color:#555555;">2015-07-10 06:59:56 - Start</h3><hr><hr/>[ 2015-07-10 06:59:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=2" target="_blank">2 - </a></b><br/ >[ 2015-07-10 06:59:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:59:56 Stop: [2:0/]
+
+<hr/>[ 2015-07-10 06:59:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=6" target="_blank">6 - </a></b><br/ >[ 2015-07-10 06:59:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:59:56 Stop: [6:0/]
+
+<hr/>[ 2015-07-10 06:59:56  - Start ][ ip: 127.0.0.1 ]<hr /><b>Pipe: <a href="admin.php?page=pipes.pipe&id=7" target="_blank">7 - </a></b><br/ >[ 2015-07-10 06:59:56 ][ Engine:  ][ Found:  articles ]<br/ >
+<br/>2015-07-10 06:59:56 Stop: [7:0/]
+
+
+<hr /><b style="color:#555555;">2015-07-10 06:59:56 - Done</b> [ ip: 127.0.0.1 ]<hr />
