@@ -57,6 +57,7 @@ wp_enqueue_script('js.cookie', '/wp-includes/js/js-cookie-master/src/js.cookie.j
 <?php responsive_mobile_container_top(); ?>
 <?php if ( has_nav_menu( 'top-menu', 'responsive-mobile' ) ) { ?>
 	<div id="top-menu-container" class="container-full-width">
+
 		<nav id="top-menu" class="container" itemscope itemtype="http://schema.org/SiteNavigationElement">
 			<?php wp_nav_menu(
 				array(
@@ -93,6 +94,7 @@ wp_enqueue_script('js.cookie', '/wp-includes/js/js-cookie-master/src/js.cookie.j
 			<nav id="main-navigation" class="site-navigation" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 				<div id="mobile-current-item"><?php responsive_mobile_menu_title(); ?></div>
 				<button id="mobile-nav-button"><span class="accessibile-label"><?php _e( 'Mobile menu toggle', 'responsive-mobile' ); ?></span></button>
+				<?php //get_search_form(); ?>
 				<?php wp_nav_menu(
 					array(
 						'container'       => 'div',

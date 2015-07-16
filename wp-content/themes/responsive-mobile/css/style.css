@@ -2715,3 +2715,12 @@ table.cart td.actions .coupon .input-text {
 .posted-by {
 display: none;
 }
+
+@media screen and (max-width: 600px) {
+  .search-form {
+    display:block;
+    float:right;
+    position:relative;
+    margin-top:-40px;
+  }
+}
